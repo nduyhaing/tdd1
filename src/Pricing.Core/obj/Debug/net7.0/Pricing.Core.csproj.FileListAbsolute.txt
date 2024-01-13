@@ -1,0 +1,11 @@
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\bin\Debug\net7.0\Pricing.Core.deps.json
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\bin\Debug\net7.0\Pricing.Core.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\bin\Debug\net7.0\Pricing.Core.pdb
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\Pricing.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\Pricing.Core.AssemblyInfoInputs.cache
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\Pricing.Core.AssemblyInfo.cs
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\Pricing.Core.csproj.CoreCompileInputs.cache
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\Pricing.Core.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\refint\Pricing.Core.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\Pricing.Core.pdb
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Core\obj\Debug\net7.0\ref\Pricing.Core.dll

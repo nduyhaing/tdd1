@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePoJg8ZN/uBSWFf+0LGnvjtuYOA/ABrvmUg5ySR/34Og0XezjLU0+ZcV28O71oABbuN9/eZgkoCYQZDlv4ki7w==",
+  "success": true,
+  "projectFilePath": "G:\\coursehunter\\From Zero to Hero Test-Driven Development in C#\\code\\dometrain-tdd-csharp-course-8.6\\TestDrivenDevelopmentCourse\\src\\Pricing.Infrastructure\\Pricing.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duyha\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\duyha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\duyha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\duyha\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

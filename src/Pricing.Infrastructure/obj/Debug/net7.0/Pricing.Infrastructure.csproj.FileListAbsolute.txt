@@ -1,0 +1,15 @@
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\bin\Debug\net7.0\Pricing.Infrastructure.deps.json
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\bin\Debug\net7.0\Pricing.Infrastructure.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\bin\Debug\net7.0\Pricing.Infrastructure.pdb
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\bin\Debug\net7.0\Pricing.Core.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\bin\Debug\net7.0\Pricing.Core.pdb
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.csproj.AssemblyReference.cache
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.AssemblyInfoInputs.cache
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.AssemblyInfo.cs
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.csproj.CoreCompileInputs.cache
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.csproj.CopyComplete
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\refint\Pricing.Infrastructure.dll
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\Pricing.Infrastructure.pdb
+G:\coursehunter\From Zero to Hero Test-Driven Development in C#\code\dometrain-tdd-csharp-course-8.6\TestDrivenDevelopmentCourse\src\Pricing.Infrastructure\obj\Debug\net7.0\ref\Pricing.Infrastructure.dll
